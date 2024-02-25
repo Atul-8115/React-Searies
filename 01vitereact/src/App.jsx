@@ -1,8 +1,8 @@
-
+import Chai from "./chai.jsx"
 function App() {
 
   return (
-    <h1>Chai aur Code with vite</h1>
+    <Chai/>
   )
 }
 
