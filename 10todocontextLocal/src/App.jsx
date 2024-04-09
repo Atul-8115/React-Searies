@@ -32,6 +32,7 @@ function App() {
     }
   },[])
 
+  //Padh lo thoda sa
   useEffect(() => {
     localStorage.setItem("todos",JSON.stringify(todos))
   },[todos])
